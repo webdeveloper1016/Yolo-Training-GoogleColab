@@ -19,3 +19,4 @@ The steps includes:
 
 ![yolo-google-colab](https://user-images.githubusercontent.com/10113553/55483057-71968c00-5643-11e9-8f72-c013e9a40dc7.jpg)
 
+58445d562d342c2b39f44e558d0fd99a250928d691ab615d2fd88b37576258ed
